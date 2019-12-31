@@ -1,0 +1,39 @@
+Security Code Following  guidelines OWASP
+CWE CVE, NIST
+Kiuwan (OWASP member, CWE certified, full compliance with SANS 25, PCI-DSS, HIPAA, WASC, MISRA-C, BIZEC, ISO 25000, ISO 9126, CERT-C, CERT-J. Over 4500 rules including: SQL injection, encryption and randomness, file handling, information leaks, number handling, control flow management, initialization and shutdown, design error, system element isolation, error handling and fault isolation, pointer and reference handling, misconfiguration, permissions, privileges and access controls, buffer handling) 
+
+OWASP Application code defect Finding
+
+
+vulnerability assessment 
+secure coding lifecycle (SDLC)
+TDD Test Driven Development
+-Unit
+-Functional
+-Automation testing
+
+GitLab
+
+Solving Problems
+Java JSP
+Java EE (Hibernate)
+MVC,Spring- Hibernate- Velocity
+Tomcat
+Eclipse
+
+Javascript/Postman/
+
+
+
+.NET
+SQL
+SCRUM - WORKFLOWS
+DevOps
+Jenkins
+Jira
+RSA
+
+
+
+Sugest:
+Assess applications, design threat models, document potential risk vectors, recommend proportional controls and ensure risk is addressed.
